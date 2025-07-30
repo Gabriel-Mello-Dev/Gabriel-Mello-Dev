@@ -12,7 +12,7 @@
 ---
 ## 📄 Portifolio
 
-[![📱](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://gabriel-mello-dev.github.io/Portfolio/)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=web&logoColor=white)](https://gabriel-mello-dev.github.io/Portfolio/)
 
 ---
 ### 🚀 Sobre mim
