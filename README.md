@@ -10,7 +10,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmelodev&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+## 📄 Portifolio
 
+[![📱](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://gabriel-mello-dev.github.io/Portfolio/)
+
+---
 ### 🚀 Sobre mim
 
 - 🔭 Atualmente trabalhando em projetos pessoais com foco em **React Native**  
