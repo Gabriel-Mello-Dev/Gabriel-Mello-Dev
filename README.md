@@ -18,7 +18,6 @@
 ### 🚀 Sobre mim
 
 - 🔭 Atualmente trabalhando em projetos pessoais com foco em **React Native**  
-- 🌱 Estudando **Kotlin** para profissionalizar na area android nativa
 - 💬 Me pergunte sobre **TypeScript**, **JavaScript**, e desenvolvimento mobile  
 - ⚡ Curiosidade: adoro otimizar interfaces mobile com animações e performance
 
