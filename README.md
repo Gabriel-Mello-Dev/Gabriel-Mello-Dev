@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou Gabriel</h1>
-<h3 align="center">Desenvolvedor Mobile focado em Kotlin e React Native</h3>
+<h3 align="center">Desenvolvedor Mobile focado em React Native</h3>
 
 ---
 
@@ -28,7 +28,6 @@
 
 <div align="center">
   
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
