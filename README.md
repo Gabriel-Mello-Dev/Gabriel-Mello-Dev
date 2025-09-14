@@ -53,7 +53,3 @@
 ---
 
 <br clear="both">
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Gabriel-Mello-Dev/Gabriel-Mello-Dev/output/snake.svg" alt="Snake animation" />
-</div>
