@@ -14,7 +14,9 @@
 
 ## 📄 Portfólio
 
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=web&logoColor=white)](https://portfolio-topaz-nine-95.vercel.app/)
+<a href="https://portfolio-topaz-nine-95.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=web&logoColor=white" />
+</a>
 
 ---
 
