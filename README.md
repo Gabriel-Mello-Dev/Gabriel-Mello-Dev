@@ -14,7 +14,7 @@
 
 ## 📄 Portfólio
 
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=web&logoColor=white)]([https://gabriel-mello-dev.github.io/Portfolio/](https://portfolio-topaz-nine-95.vercel.app/))
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=web&logoColor=white)](https://portfolio-topaz-nine-95.vercel.app/)
 
 ---
 
