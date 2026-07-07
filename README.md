@@ -6,7 +6,7 @@
 ##  Destaques do GitHub
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gabriel.Mello.7E&theme=github-compact">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
