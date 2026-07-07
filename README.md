@@ -5,10 +5,9 @@
 
 ##  Destaques do GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gabriel.Mello.7&show_icons=true&theme=radical" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabriel.Mello.7&layout=compact&theme=radical" height="150" alt="languages graph" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+</p>
 
 ---
 
