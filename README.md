@@ -19,13 +19,13 @@
 
 ---
 
-##  Sobre mim
+## Sobre mim
 
--  Desenvolvedor Full Stack com experiência no desenvolvimento de aplicações para empresas, atuando desde a arquitetura até a entrega de soluções em produção.
--  Estudante de Desenvolvimento de Sistemas (AMS ETEC/FATEC).
--  Pesquisador em projetos acadêmicos voltados para sensoriamento remoto, processamento de imagens e aplicação de algoritmos para análise de dados.
--  Participante de hackathons e projetos colaborativos, desenvolvendo soluções para problemas reais.
--  Atualmente aprofundando conhecimentos em arquitetura de software, segurança, escalabilidade, computação em nuvem e Inteligência Artificial.
+- Desenvolvedor Full Stack, apaixonado por programação, tecnologia e criação de soluções digitais.
+- Atuação em desenvolvimento de software, Marketing Tech (MarTech) e Growth Engineering, conectando tecnologia, dados e estratégias de crescimento.
+- Pesquisador acadêmico com foco em Inteligência Artificial, sensoriamento remoto e análise de dados.
+- Estudante de Desenvolvimento de Sistemas pelo programa AMS ETEC/FATEC.
+- Participante de hackathons e projetos de inovação, buscando transformar ideias em soluções reais.
 
 ---
 
