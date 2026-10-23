@@ -22,7 +22,9 @@
 
 ## Portfólio
 
-[**Acessar portfólio**](https://portfolio-topaz-nine-95.vercel.app/)
+<a href="https://portfolio-topaz-nine-95.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 
 ## Tecnologias e ferramentas
 
