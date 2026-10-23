@@ -2,6 +2,16 @@
 
 **Full Stack Developer | Growth Engineering & MarTech | Technology Researcher**
 
+---
+
+##  Destaques do GitHub
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
 ## Sobre mim
 
 - Desenvolvedor Full Stack com foco na construção de aplicações web, mobile e APIs.
