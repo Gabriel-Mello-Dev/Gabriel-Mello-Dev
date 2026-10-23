@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou Gabriel</h1>
-<h3 align="center">Desenvolvedor Full Stack | Next.js | React Native |Tech Researcher</h3>
+<h3 align="center">Full Stack Developer | Growth Engineering & MarTech | Tech Researcher</h3>
 
 ---
 
